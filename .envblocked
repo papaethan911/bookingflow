@@ -1,7 +1,0 @@
-APP_NAME=Laravel
-APP_ENV=production
-APP_KEY=base64:Qk1vQ2JwQ2d2b2JwQ2JwQ2d2b2JwQ2JwQ2d2b2JwQ2JwQ2c=
-APP_DEBUG=false
-APP_URL=https://bookingflow-production.up.railway.app
-LOG_LEVEL=error
-# NOTE: Copy this file as .env for deployment to production. 
